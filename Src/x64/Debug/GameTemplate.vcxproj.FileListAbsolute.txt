@@ -1,0 +1,2 @@
+C:\Users\jux7e\Documents\Maga\GameTemplate\x64\Debug\GameTemplate.exe
+C:\Users\jux7e\Documents\Maga\GameTemplate\x64\Debug\GameTemplate.pdb
