@@ -1,0 +1,145 @@
+{
+  "GameConfig": {
+    "GameModeSettings": {
+      "DefaultRating": {
+        "RatingScattering": 3000,
+        "MaxAllowedByCharacterType": {
+          "Catcher": 1,
+          "Escapee": 4
+        },
+        "EnableBots": true
+      },
+      "DefaultNonRating": {
+        "RatingScattering": 300000,
+        "MaxAllowedByCharacterType": {
+          "Catcher": 1,
+          "Escapee": 4
+        },
+        "EnableBots": true
+      }
+    }
+  },
+  "CharactersConfig": {
+    "CommonCharactersData": {
+      "MovementSpeed": 10.0,
+      "RotationSpeed": 10.0,
+      "FovRadius": 3.0
+    },
+    "Catchers": {
+      "SpiderKing": {
+        "CatcherType": 1,
+        "AttackRadius": 3.0,
+        "AttackAngle": 120.0,
+        "TakeEscapeeInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "PlaceEscapeeInCageInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "DestroyObstacleInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "DestroyCampFireInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "MovementSpeedMultiplier": 1.0,
+        "RotationSpeedMultiplier": 1.0,
+        "FovRadiusMultiplier": 1.0,
+        "FovAngle360": 360.0
+      },
+      "SkeletonGiant": {
+        "CatcherType": 2,
+        "AttackRadius": 3.0,
+        "AttackAngle": 120.0,
+        "TakeEscapeeInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "PlaceEscapeeInCageInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "DestroyObstacleInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "DestroyCampFireInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "MovementSpeedMultiplier": 1.0,
+        "RotationSpeedMultiplier": 1.0,
+        "FovRadiusMultiplier": 1.0,
+        "FovAngle360": 360.0
+      }
+    },
+    "Escapees": {
+      "Burrow": {
+        "EscapeeType": 1,
+        "ActivateCampFireInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "ReleaseFromCageInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "OpenGateInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "PlaceObstacleInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "MovementSpeedMultiplier": 1.0,
+        "RotationSpeedMultiplier": 1.0,
+        "FovRadiusMultiplier": 1.0,
+        "FovAngle360": 360.0
+      },
+      "Egglet": {
+        "EscapeeType": 2,
+        "ActivateCampFireInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "ReleaseFromCageInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "OpenGateInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "PlaceObstacleInteractionData": {
+          "InteractionRadius": 3.0,
+          "InteractionAngle360": 360.0,
+          "InteractionDuration": 1.0
+        },
+        "MovementSpeedMultiplier": 1.0,
+        "RotationSpeedMultiplier": 1.0,
+        "FovRadiusMultiplier": 1.0,
+        "FovAngle360": 360.0
+      }
+    }
+  }
+}
