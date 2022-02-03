@@ -4,6 +4,7 @@
       "DefaultRating": {
         "RatingScattering": 3000,
         "MaxAllowedByCharacterType": {
+          "None": 0,
           "Catcher": 1,
           "Escapee": 4
         },
@@ -12,6 +13,7 @@
       "DefaultNonRating": {
         "RatingScattering": 300000,
         "MaxAllowedByCharacterType": {
+          "None": 0,
           "Catcher": 1,
           "Escapee": 4
         },
