@@ -4,7 +4,6 @@
       "DefaultRating": {
         "RatingScattering": 3000,
         "MaxAllowedByCharacterType": {
-          "None": 0,
           "Catcher": 1,
           "Escapee": 4
         },
@@ -13,7 +12,6 @@
       "DefaultNonRating": {
         "RatingScattering": 300000,
         "MaxAllowedByCharacterType": {
-          "None": 0,
           "Catcher": 1,
           "Escapee": 4
         },
@@ -143,5 +141,247 @@
         "FovAngle360": 360.0
       }
     }
+  },
+  "MapData": {
+    "SpawnPointsByCharacterType": {
+      "Catcher": [
+        {
+          "Position": {
+            "X": 35.0,
+            "Y": 64.0,
+            "Z": 6.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -79.0,
+            "Y": -70.0,
+            "Z": 28.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": 82.0,
+            "Y": 73.0,
+            "Z": 47.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        }
+      ],
+      "Escapee": [
+        {
+          "Position": {
+            "X": 40.0,
+            "Y": -58.0,
+            "Z": 90.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -79.0,
+            "Y": -74.0,
+            "Z": 74.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -58.0,
+            "Y": 87.0,
+            "Z": 47.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        }
+      ]
+    },
+    "CageSpawnPoints": [
+      {
+        "Position": {
+          "X": 45.0,
+          "Y": -82.0,
+          "Z": -88.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      },
+      {
+        "Position": {
+          "X": -60.0,
+          "Y": -6.0,
+          "Z": -9.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      }
+    ],
+    "CampFireSpawnPoints": [
+      {
+        "Position": {
+          "X": -99.0,
+          "Y": -15.0,
+          "Z": 73.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      },
+      {
+        "Position": {
+          "X": 6.0,
+          "Y": -87.0,
+          "Z": 82.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      }
+    ],
+    "HatchSpawnPoints": [
+      {
+        "Position": {
+          "X": -38.0,
+          "Y": -2.0,
+          "Z": 52.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      },
+      {
+        "Position": {
+          "X": 66.0,
+          "Y": -80.0,
+          "Z": -49.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      }
+    ],
+    "ObstaclesSpawnPoints": [
+      {
+        "Position": {
+          "X": -82.0,
+          "Y": -81.0,
+          "Z": -25.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      },
+      {
+        "Position": {
+          "X": -27.0,
+          "Y": 65.0,
+          "Z": -96.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      }
+    ],
+    "GatesSpawnPoints": [
+      {
+        "Position": {
+          "X": 19.0,
+          "Y": 38.0,
+          "Z": 97.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      },
+      {
+        "Position": {
+          "X": -61.0,
+          "Y": 8.0,
+          "Z": -50.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0,
+          "IsIdentity": true
+        }
+      }
+    ]
   }
 }
