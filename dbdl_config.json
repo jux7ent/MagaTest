@@ -30,6 +30,7 @@
         "CatcherType": 1,
         "AttackRadius": 3.0,
         "AttackAngle": 120.0,
+        "AttackDurationMills": 3000,
         "TakeEscapeeInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
@@ -59,6 +60,7 @@
         "CatcherType": 2,
         "AttackRadius": 3.0,
         "AttackAngle": 120.0,
+        "AttackDurationMills": 3000,
         "TakeEscapeeInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
