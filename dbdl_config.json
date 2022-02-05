@@ -29,27 +29,27 @@
       "SpiderKing": {
         "CatcherType": 1,
         "AttackRadius": 3.0,
-        "AttackAngle": 120.0,
         "AttackDurationMills": 3000,
+        "AttackAngle": 120.0,
         "TakeEscapeeInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "PlaceEscapeeInCageInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "DestroyObstacleInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "DestroyCampFireInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "MovementSpeedMultiplier": 1.0,
         "RotationSpeedMultiplier": 1.0,
@@ -59,27 +59,27 @@
       "SkeletonGiant": {
         "CatcherType": 2,
         "AttackRadius": 3.0,
-        "AttackAngle": 120.0,
         "AttackDurationMills": 3000,
+        "AttackAngle": 120.0,
         "TakeEscapeeInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "PlaceEscapeeInCageInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "DestroyObstacleInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "DestroyCampFireInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "MovementSpeedMultiplier": 1.0,
         "RotationSpeedMultiplier": 1.0,
@@ -93,22 +93,22 @@
         "ActivateCampFireInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "ReleaseFromCageInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "OpenGateInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "PlaceObstacleInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "MovementSpeedMultiplier": 1.0,
         "RotationSpeedMultiplier": 1.0,
@@ -120,22 +120,22 @@
         "ActivateCampFireInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "ReleaseFromCageInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "OpenGateInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "PlaceObstacleInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDuration": 1.0
+          "InteractionDurationMills": 3000
         },
         "MovementSpeedMultiplier": 1.0,
         "RotationSpeedMultiplier": 1.0,
@@ -149,9 +149,9 @@
       "Catcher": [
         {
           "Position": {
-            "X": -8.0,
+            "X": -4.0,
             "Y": 0.0,
-            "Z": -8.0
+            "Z": -1.0
           },
           "Rotation": {
             "X": 0.0,
@@ -163,9 +163,9 @@
         },
         {
           "Position": {
-            "X": 40.0,
+            "X": 2.0,
             "Y": 0.0,
-            "Z": -53.0
+            "Z": 14.0
           },
           "Rotation": {
             "X": 0.0,
@@ -177,9 +177,9 @@
         },
         {
           "Position": {
-            "X": -54.0,
+            "X": -2.0,
             "Y": 0.0,
-            "Z": -76.0
+            "Z": 17.0
           },
           "Rotation": {
             "X": 0.0,
@@ -193,9 +193,9 @@
       "Escapee": [
         {
           "Position": {
-            "X": -69.0,
+            "X": -17.0,
             "Y": 0.0,
-            "Z": -51.0
+            "Z": 3.0
           },
           "Rotation": {
             "X": 0.0,
@@ -207,9 +207,9 @@
         },
         {
           "Position": {
-            "X": -46.0,
-            "Y": -36.0,
-            "Z": 59.0
+            "X": 18.0,
+            "Y": 0.0,
+            "Z": -4.0
           },
           "Rotation": {
             "X": 0.0,
@@ -221,9 +221,9 @@
         },
         {
           "Position": {
-            "X": 38.0,
+            "X": -1.0,
             "Y": 0.0,
-            "Z": -5.0
+            "Z": -8.0
           },
           "Rotation": {
             "X": 0.0,
@@ -238,9 +238,9 @@
     "CageSpawnPoints": [
       {
         "Position": {
-          "X": -43.0,
+          "X": 7.0,
           "Y": 0.0,
-          "Z": -41.0
+          "Z": -12.0
         },
         "Rotation": {
           "X": 0.0,
@@ -252,9 +252,9 @@
       },
       {
         "Position": {
-          "X": -66.0,
+          "X": 1.0,
           "Y": 0.0,
-          "Z": -59.0
+          "Z": -13.0
         },
         "Rotation": {
           "X": 0.0,
@@ -268,9 +268,9 @@
     "CampFireSpawnPoints": [
       {
         "Position": {
-          "X": 5.0,
+          "X": -19.0,
           "Y": 0.0,
-          "Z": -5.0
+          "Z": 9.0
         },
         "Rotation": {
           "X": 0.0,
@@ -282,23 +282,9 @@
       },
       {
         "Position": {
-          "X": -5.0,
+          "X": 14.0,
           "Y": 0.0,
-          "Z": 5.0
-        },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      },
-      {
-        "Position": {
-          "X": 8.0,
-          "Y": 0.0,
-          "Z": 8.0
+          "Z": 6.0
         },
         "Rotation": {
           "X": 0.0,
@@ -312,9 +298,9 @@
     "HatchSpawnPoints": [
       {
         "Position": {
-          "X": 23.0,
+          "X": -4.0,
           "Y": 0.0,
-          "Z": -41.0
+          "Z": 12.0
         },
         "Rotation": {
           "X": 0.0,
@@ -326,9 +312,9 @@
       },
       {
         "Position": {
-          "X": 3.0,
+          "X": -18.0,
           "Y": 0.0,
-          "Z": 80.0
+          "Z": -13.0
         },
         "Rotation": {
           "X": 0.0,
@@ -342,9 +328,9 @@
     "ObstaclesSpawnPoints": [
       {
         "Position": {
-          "X": -51.0,
+          "X": 18.0,
           "Y": 0.0,
-          "Z": 59.0
+          "Z": -10.0
         },
         "Rotation": {
           "X": 0.0,
@@ -356,9 +342,9 @@
       },
       {
         "Position": {
-          "X": -95.0,
+          "X": -5.0,
           "Y": 0.0,
-          "Z": -36.0
+          "Z": -15.0
         },
         "Rotation": {
           "X": 0.0,
@@ -372,9 +358,9 @@
     "GatesSpawnPoints": [
       {
         "Position": {
-          "X": 94.0,
+          "X": -16.0,
           "Y": 0.0,
-          "Z": -94.0
+          "Z": 9.0
         },
         "Rotation": {
           "X": 0.0,
@@ -386,9 +372,9 @@
       },
       {
         "Position": {
-          "X": 28.0,
+          "X": 17.0,
           "Y": 0.0,
-          "Z": 28.0
+          "Z": -17.0
         },
         "Rotation": {
           "X": 0.0,
