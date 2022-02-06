@@ -149,9 +149,23 @@
       "Catcher": [
         {
           "Position": {
+            "X": 9.0,
+            "Y": 0.0,
+            "Z": 18.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
             "X": 12.0,
             "Y": 0.0,
-            "Z": 2.0
+            "Z": 17.0
           },
           "Rotation": {
             "X": 0.0,
@@ -165,21 +179,7 @@
           "Position": {
             "X": -4.0,
             "Y": 0.0,
-            "Z": 16.0
-          },
-          "Rotation": {
-            "X": 0.0,
-            "Y": 0.0,
-            "Z": 0.0,
-            "W": 1.0,
-            "IsIdentity": true
-          }
-        },
-        {
-          "Position": {
-            "X": -9.0,
-            "Y": 0.0,
-            "Z": -9.0
+            "Z": 17.0
           },
           "Rotation": {
             "X": 0.0,
@@ -193,9 +193,23 @@
       "Escapee": [
         {
           "Position": {
+            "X": -20.0,
+            "Y": 0.0,
+            "Z": -17.0
+          },
+          "Rotation": {
             "X": 0.0,
             "Y": 0.0,
-            "Z": -13.0
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -9.0,
+            "Y": 0.0,
+            "Z": -19.0
           },
           "Rotation": {
             "X": 0.0,
@@ -209,7 +223,128 @@
           "Position": {
             "X": 19.0,
             "Y": 0.0,
-            "Z": -12.0
+            "Z": -9.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        }
+      ]
+    },
+    "Cages": {
+      "Items": [
+        {
+          "Position": {
+            "X": -9.0,
+            "Y": 0.0,
+            "Z": -11.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 15.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": 2.0,
+            "Y": 0.0,
+            "Z": 16.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -6.0,
+            "Y": 0.0,
+            "Z": -11.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        }
+      ],
+      "ItemsCount": 2
+    },
+    "CampFires": {
+      "Items": [
+        {
+          "Position": {
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 19.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -13.0,
+            "Y": 0.0,
+            "Z": -14.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -14.0,
+            "Y": 0.0,
+            "Z": 15.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -16.0,
+            "Y": 0.0,
+            "Z": 10.0
           },
           "Rotation": {
             "X": 0.0,
@@ -223,7 +358,63 @@
           "Position": {
             "X": 3.0,
             "Y": 0.0,
-            "Z": -13.0
+            "Z": 19.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 15.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -10.0,
+            "Y": 0.0,
+            "Z": 19.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -18.0,
+            "Y": 0.0,
+            "Z": 6.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
+        },
+        {
+          "Position": {
+            "X": -10.0,
+            "Y": 0.0,
+            "Z": -6.0
           },
           "Rotation": {
             "X": 0.0,
@@ -233,221 +424,276 @@
             "IsIdentity": true
           }
         }
-      ]
+      ],
+      "ItemsCount": 4
     },
-    "CageSpawnPoints": [
-      {
-        "Position": {
-          "X": -16.0,
-          "Y": 0.0,
-          "Z": 18.0
+    "Hatches": {
+      "Items": [
+        {
+          "Position": {
+            "X": 7.0,
+            "Y": 0.0,
+            "Z": 14.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      },
-      {
-        "Position": {
-          "X": 1.0,
-          "Y": 0.0,
-          "Z": -18.0
+        {
+          "Position": {
+            "X": -12.0,
+            "Y": 0.0,
+            "Z": 5.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      }
-    ],
-    "CampFireSpawnPoints": [
-      {
-        "Position": {
-          "X": -20.0,
-          "Y": 0.0,
-          "Z": 15.0
+        {
+          "Position": {
+            "X": -7.0,
+            "Y": 0.0,
+            "Z": -11.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
+        {
+          "Position": {
+            "X": -12.0,
+            "Y": 0.0,
+            "Z": 1.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         }
-      },
-      {
-        "Position": {
-          "X": -1.0,
-          "Y": 0.0,
-          "Z": 8.0
+      ],
+      "ItemsCount": 1
+    },
+    "Gates": {
+      "Items": [
+        {
+          "Position": {
+            "X": 8.0,
+            "Y": 0.0,
+            "Z": -10.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      }
-    ],
-    "HatchSpawnPoints": [
-      {
-        "Position": {
-          "X": 10.0,
-          "Y": 0.0,
-          "Z": 17.0
+        {
+          "Position": {
+            "X": 13.0,
+            "Y": 0.0,
+            "Z": 1.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      },
-      {
-        "Position": {
-          "X": 17.0,
-          "Y": 0.0,
-          "Z": 9.0
+        {
+          "Position": {
+            "X": 11.0,
+            "Y": 0.0,
+            "Z": -17.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
+        {
+          "Position": {
+            "X": -18.0,
+            "Y": 0.0,
+            "Z": -18.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         }
-      }
-    ],
-    "ObstaclesSpawnPoints": [
-      {
-        "Position": {
-          "X": 6.0,
-          "Y": 0.0,
-          "Z": 14.0
+      ],
+      "ItemsCount": 1
+    },
+    "Obstacles": {
+      "Items": [
+        {
+          "Position": {
+            "X": 1.0,
+            "Y": 0.0,
+            "Z": 9.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      },
-      {
-        "Position": {
-          "X": 10.0,
-          "Y": 0.0,
-          "Z": 16.0
+        {
+          "Position": {
+            "X": 11.0,
+            "Y": 0.0,
+            "Z": 6.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      }
-    ],
-    "GatesSpawnPoints": [
-      {
-        "Position": {
-          "X": -2.0,
-          "Y": 0.0,
-          "Z": -11.0
+        {
+          "Position": {
+            "X": 10.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
+        {
+          "Position": {
+            "X": 12.0,
+            "Y": 0.0,
+            "Z": -10.0
+          },
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsIdentity": true
+          }
         }
-      },
-      {
-        "Position": {
-          "X": -3.0,
-          "Y": 0.0,
-          "Z": -3.0
+      ],
+      "ItemsCount": 1
+    },
+    "Grass": {
+      "Items": [
+        {
+          "SpawnPoint": {
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": -8.0
+            },
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsIdentity": true
+            }
+          },
+          "Size": {
+            "X": 5.0,
+            "Y": 1.0
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      }
-    ],
-    "GrassSpawnPoints": [
-      {
-        "Position": {
-          "X": -13.0,
-          "Y": 0.0,
-          "Z": 6.0
+        {
+          "SpawnPoint": {
+            "Position": {
+              "X": -19.0,
+              "Y": 0.0,
+              "Z": -8.0
+            },
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsIdentity": true
+            }
+          },
+          "Size": {
+            "X": 2.0,
+            "Y": 8.0
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      },
-      {
-        "Position": {
-          "X": -14.0,
-          "Y": 0.0,
-          "Z": 4.0
+        {
+          "SpawnPoint": {
+            "Position": {
+              "X": 4.0,
+              "Y": 0.0,
+              "Z": -12.0
+            },
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsIdentity": true
+            }
+          },
+          "Size": {
+            "X": 3.0,
+            "Y": 5.0
+          }
         },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
+        {
+          "SpawnPoint": {
+            "Position": {
+              "X": -20.0,
+              "Y": 0.0,
+              "Z": 15.0
+            },
+            "Rotation": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 1.0,
+              "IsIdentity": true
+            }
+          },
+          "Size": {
+            "X": 6.0,
+            "Y": 9.0
+          }
         }
-      },
-      {
-        "Position": {
-          "X": -18.0,
-          "Y": 0.0,
-          "Z": 8.0
-        },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      },
-      {
-        "Position": {
-          "X": -3.0,
-          "Y": 0.0,
-          "Z": -13.0
-        },
-        "Rotation": {
-          "X": 0.0,
-          "Y": 0.0,
-          "Z": 0.0,
-          "W": 1.0,
-          "IsIdentity": true
-        }
-      }
-    ],
-    "CagesCount": 2,
-    "CampFiresCount": 2,
-    "HatchesCount": 1,
-    "ObstaclesCount": 1,
-    "GatesCount": 1,
-    "GrassCount": 2
+      ],
+      "ItemsCount": 2
+    }
   }
 }
