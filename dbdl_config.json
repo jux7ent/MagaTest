@@ -21,8 +21,8 @@
   },
   "CharactersConfig": {
     "CommonCharactersData": {
-      "MovementSpeed": 10.0,
-      "RotationSpeed": 10.0,
+      "MovementSpeed": 2.5,
+      "RotationSpeed": 3.0,
       "FovRadius": 3.0
     },
     "Catchers": {
@@ -51,7 +51,7 @@
           "InteractionAngle360": 360.0,
           "InteractionDurationMills": 3000
         },
-        "MovementSpeedMultiplier": 1.0,
+        "MovementSpeedMultiplier": 1.4,
         "RotationSpeedMultiplier": 1.0,
         "FovRadiusMultiplier": 1.0,
         "FovAngle360": 360.0
@@ -81,7 +81,7 @@
           "InteractionAngle360": 360.0,
           "InteractionDurationMills": 3000
         },
-        "MovementSpeedMultiplier": 1.0,
+        "MovementSpeedMultiplier": 1.2,
         "RotationSpeedMultiplier": 1.0,
         "FovRadiusMultiplier": 1.0,
         "FovAngle360": 360.0
