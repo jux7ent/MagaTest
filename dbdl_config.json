@@ -13,9 +13,9 @@
         "RatingScattering": 300000,
         "MaxAllowedByCharacterType": {
           "Catcher": 1,
-          "Escapee": 4
+          "Escapee": 2
         },
-        "EnableBots": true
+        "EnableBots": false
       }
     }
   },
