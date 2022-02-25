@@ -93,7 +93,7 @@
         "ActivateCampFireInteractionData": {
           "InteractionRadius": 3.0,
           "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
+          "InteractionDurationMills": 30000
         },
         "ReleaseFromCageInteractionData": {
           "InteractionRadius": 3.0,
