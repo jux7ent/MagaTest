@@ -1,0 +1,22 @@
+{
+ "GameConfig": {
+    "GameModeSettings": {
+      "DefaultRating": {
+        "RatingScattering": 3000,
+        "MaxAllowedByCharacterType": {
+          "Catcher": 1,
+          "Escapee": 4
+        },
+        "EnableBots": true
+      },
+      "DefaultNonRating": {
+        "RatingScattering": 300000,
+        "MaxAllowedByCharacterType": {
+          "Catcher": 1,
+          "Escapee": 2
+        },
+        "EnableBots": false
+      }
+    }
+  } 
+}
