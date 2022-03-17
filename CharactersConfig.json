@@ -1,6 +1,5 @@
 {
- "CharactersConfig": {
-    "CommonCharactersData": {
+ "CommonCharactersData": {
       "MovementSpeed": 2.5,
       "RotationSpeed": 3.0,
       "FovRadius": 5.0
@@ -123,5 +122,4 @@
         "FovAngle360": 220.0
       }
     }
-  } 
 }
