@@ -1,6 +1,5 @@
 {
- "GameConfig": {
-    "GameModeSettings": {
+  "GameModeSettings": {
       "DefaultRating": {
         "RatingScattering": 3000,
         "MaxAllowedByCharacterType": {
@@ -18,5 +17,4 @@
         "EnableBots": false
       }
     }
-  } 
 }
