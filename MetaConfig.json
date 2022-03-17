@@ -1,8 +1,7 @@
 {
-  "CharactersConfigUrl" : "google.com",
-  "GameConfigUrl" : "google.com",
+  "CharactersConfigUrl" : "https://raw.githubusercontent.com/jux7ent/MagaTest/master/CharactersConfig.json",
+  "GameConfigUrl" : "https://raw.githubusercontent.com/jux7ent/MagaTest/master/GameConfig.json",
   "MapsConfigUrlsList" : [
-    "google.com",
-    "google.com",
+    "https://raw.githubusercontent.com/jux7ent/MagaTest/master/map_02.json",
   ],
 }
