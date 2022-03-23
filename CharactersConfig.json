@@ -1,125 +1,55 @@
 {
- "CommonCharactersData": {
-      "MovementSpeed": 2.5,
-      "RotationSpeed": 3.0,
-      "FovRadius": 5.0
-    },
-    "Catchers": {
-      "SpiderKing": {
-        "CatcherType": 1,
-        "AttackRadius": 3.0,
-        "AttackDurationMills": 3000,
-        "AttackAngle": 120.0,
-        "TakeEscapeeInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "PlaceEscapeeInCageInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "DestroyObstacleInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "DestroyCampFireInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "MovementSpeedMultiplier": 1.4,
-        "RotationSpeedMultiplier": 1.0,
-        "FovRadiusMultiplier": 1.1,
-        "FovAngle360": 190.0
-      },
-      "SkeletonGiant": {
-        "CatcherType": 2,
-        "AttackRadius": 3.0,
-        "AttackDurationMills": 3000,
-        "AttackAngle": 120.0,
-        "TakeEscapeeInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "PlaceEscapeeInCageInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "DestroyObstacleInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "DestroyCampFireInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "MovementSpeedMultiplier": 1.2,
-        "RotationSpeedMultiplier": 1.0,
-        "FovRadiusMultiplier": 1.3,
-        "FovAngle360": 360.0
-      }
-    },
-    "Escapees": {
-      "Burrow": {
-        "EscapeeType": 1,
-        "ActivateCampFireInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 30000
-        },
-        "ReleaseFromCageInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "OpenGateInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "PlaceObstacleInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "MovementSpeedMultiplier": 1.0,
-        "RotationSpeedMultiplier": 1.0,
-        "FovRadiusMultiplier": 1.0,
-        "FovAngle360": 360.0
-      },
-      "Egglet": {
-        "EscapeeType": 2,
-        "ActivateCampFireInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "ReleaseFromCageInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "OpenGateInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "PlaceObstacleInteractionData": {
-          "InteractionRadius": 3.0,
-          "InteractionAngle360": 360.0,
-          "InteractionDurationMills": 3000
-        },
-        "MovementSpeedMultiplier": 1.0,
-        "RotationSpeedMultiplier": 1.0,
-        "FovRadiusMultiplier": 1.0,
-        "FovAngle360": 220.0
-      }
+  "CommonCharactersData": {
+    "CampFireInteractionDuration": 30000,
+    "OpenGateInteractionDuration": 8000,
+    "UseObstacleInteractionDuration": 2000,
+    "UseHatchInteractionDuration": 500,
+    "ReleaseFromCageInteractionDuration": 5000,
+    "HealingDuration": 10000,
+    "JumpThroughObjectDuration": 2000,
+    "AttackRadius": 1.5,
+    "AttackAngle360": 360.0,
+    "AttackMissMovementMultiplier": 0.5,
+    "AttackMissMovementDebuffDuration": 3000,
+    "AttackAfterHitDuration": 3000,
+    "BreakCampFireDuration": 3000,
+    "DestroyObstacleDuration": 3000,
+    "TakeEscapeeDuration": 3000,
+    "PlaceEscapeeInCageDuration": 3000,
+    "CloseHatchDuration": 3000,
+    "JumpThroughObjectDurationForCatcher": 3000,
+    "MovementSpeed": 2.5,
+    "RotationSpeed": 3.0,
+    "FovAngle360": 360.0,
+    "FovRadius": 3.0,
+    "InteractionRadius": 1.0,
+    "InteractionAngle360": 360.0
+  },
+  "Catchers": {
+    "Reaper": {
+      "AttackRadiusMultiplier": 1.0,
+      "BreakCampFireMultiplier": 1.0,
+      "DestroyObstacleMultiplier": 1.0,
+      "JumpThroughObjectMultiplier": 1.0,
+      "MovementSpeedMultiplier": 1.0,
+      "RotationSpeedMultiplier": 1.0,
+      "FovAngleMultiplier": 1.0,
+      "FovRadiusMultiplier": 1.0
     }
+  },
+  "Escapees": {
+    "Burrow": {
+      "CampFireMultiplier": 1.0,
+      "OpenGateMultiplier": 1.0,
+      "UseObstacleMultiplier": 1.0,
+      "UseHatchMultiplier": 1.0,
+      "ReleaseFromCageMultiplier": 1.0,
+      "HealingMultiplier": 1.0,
+      "JumpThroughObjectMultiplier": 1.0,
+      "MovementSpeedMultiplier": 1.0,
+      "RotationSpeedMultiplier": 1.0,
+      "FovAngleMultiplier": 1.0,
+      "FovRadiusMultiplier": 1.0
+    }
+  }
 }
