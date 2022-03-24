@@ -1,10 +1,11 @@
 {
   "EchoLocation": {
-    "CooldownMills": 10000,
+    "Cooldown": 10000,
     "Duration": 5000,
   },
   "MindControl": {
-    "CooldownMills": 10000,
+    "Cooldown": 10000,
     "Duration": 5000,
+    "Radius": 10.0,
   }
 }
