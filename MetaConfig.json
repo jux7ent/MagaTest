@@ -1,6 +1,7 @@
 {
   "CharactersConfigUrl" : "https://raw.githubusercontent.com/jux7ent/MagaTest/master/CharactersConfig.json",
   "GameConfigUrl" : "https://raw.githubusercontent.com/jux7ent/MagaTest/master/GameConfig.json",
+  "AbilitiesConfigUrl": "https://raw.githubusercontent.com/jux7ent/MagaTest/master/AbilitiesConfig",
   "MapsConfigUrlsList" : [
     "https://raw.githubusercontent.com/jux7ent/MagaTest/master/map_02.json",
   ],
