@@ -8,4 +8,10 @@
     "Duration": 5000,
     "Radius": 10.0,
   }
+  "Fireball": {
+    "Cooldown": 10000,
+    "FireballMovementSpeed": 5.0,
+    "FireballExplosionRadius": 1.0,
+    "MovementMultiplier": 1.0,
+  }
 }
