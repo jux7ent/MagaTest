@@ -7,7 +7,7 @@
     "Cooldown": 10000,
     "Duration": 5000,
     "Radius": 10.0,
-  }
+  },
   "Fireball": {
     "Cooldown": 10000,
     "FireballMovementSpeed": 5.0,
