@@ -16,7 +16,7 @@
   },
   "Hook": {
     "Cooldown": 10000,
-    "HookMovementSpeed": 5.0,
+    "HookMovementSpeed": 10.0,
     "HookRadius": 1.0,
     "MovementMultiplier": 1.0,
   }
