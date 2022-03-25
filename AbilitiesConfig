@@ -5,7 +5,7 @@
   },
   "MindControl": {
     "Cooldown": 10000,
-    "Duration": 5000,
+    "Duration": 15000,
     "Radius": 10.0,
   },
   "Fireball": {
