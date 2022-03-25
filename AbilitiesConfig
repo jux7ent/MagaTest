@@ -13,5 +13,11 @@
     "FireballMovementSpeed": 5.0,
     "FireballExplosionRadius": 1.0,
     "MovementMultiplier": 1.0,
+  },
+  "Hook": {
+    "Cooldown": 10000,
+    "HookMovementSpeed": 5.0,
+    "HookRadius": 1.0,
+    "MovementMultiplier": 1.0,
   }
 }
