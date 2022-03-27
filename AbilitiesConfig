@@ -10,14 +10,14 @@
   },
   "Fireball": {
     "Cooldown": 10000,
-    "FireballMovementSpeed": 5.0,
-    "FireballExplosionRadius": 1.0,
+    "ProjectileSpeed": 5.0,
+    "ProjectileInteractionRadius": 1.0,
     "MovementMultiplier": 1.0,
   },
   "Hook": {
     "Cooldown": 10000,
-    "HookMovementSpeed": 10.0,
-    "HookRadius": 3.0,
+    "ProjectileSpeed": 10.0,
+    "ProjectileInteractionRadius": 1.5,
     "MovementMultiplier": 1.0,
   }
 }
