@@ -21,7 +21,7 @@
     "MovementSpeed": 2.5,
     "RotationSpeed": 3.0,
     "FovAngle360": 360.0,
-    "FovRadius": 3.0,
+    "FovRadius": 50.0,
     "InteractionRadius": 1.0,
     "InteractionAngle360": 360.0
   },
